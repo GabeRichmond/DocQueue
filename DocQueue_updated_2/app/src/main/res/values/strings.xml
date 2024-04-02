@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DocQueue</string>
+    <string name="email">e-mail address</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="name">name</string>
+    <string name="specialization">specialization</string>
+    <string name="location">clinic address</string>
+    <string name="hours">clinic hours</string>
+    <string name="contact">contact #</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="bday">Birthday</string>
+    <string name="address">Address</string>
+
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_doctor_page">DoctorPage</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
